@@ -1,17 +1,10 @@
-import { Components } from "./Components";
-
+ import Components from "./Components";
 function App(){
-  return (
-    <div>
-
+  return <div>
     <h1>
-    This is protocal
+      This is Best Server
     </h1>
-  <Components/>
+    <Components></Components>
   </div>
-  ) 
-  
- 
- 
 }
 export default App;

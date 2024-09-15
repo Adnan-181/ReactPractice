@@ -1,7 +1,5 @@
 
-
-export const Components = () => {
-  return (
-    <div>Components</div>
-  )
+function Components(){
+  return <button>Like the Post</button>
 }
+export default Components;
