@@ -1,5 +1,5 @@
 
 function Components(){
-  return <button>Like the Post</button>
+  return <button>Like  Post</button>
 }
 export default Components;
